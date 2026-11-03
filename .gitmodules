@@ -1,0 +1,3 @@
+[submodule "reference/pyOpenFOAM"]
+	path = reference/pyOpenFOAM
+	url = https://github.com/sherlockyzd/pyOpenFOAM.git
